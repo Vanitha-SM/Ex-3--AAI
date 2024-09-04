@@ -2,8 +2,8 @@
 ENTER YOUR NAME: Vanitha S
 ENTER YOUR REGISTER NO: 212222100057
 ```
-<H3>EX. NO.3</H3>
-<H3>DATE- 04-09-2024/H3>
+EX. NO.3
+DATE- 04-09-2024
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks</H1>
 
 ### Aim: 
@@ -134,6 +134,7 @@ print(query_result),
 
 ![image](https://github.com/user-attachments/assets/4982408a-e238-46d5-91ec-08107fc927ad)
 
+![image](https://github.com/user-attachments/assets/3d851885-f978-4de4-98a8-90dba33aab59)
 
 
 ### Result:
