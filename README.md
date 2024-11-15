@@ -1,9 +1,9 @@
 ```
-ENTER YOUR NAME: Vanitha S
-ENTER YOUR REGISTER NO: 212222100057
+<H3> NAME: Vanitha S </H3>
+<H3> REGISTER NO: 212222100057 </H3>
 ```
-EX. NO.3
-DATE- 04-09-2024
+<H3> EX. NO.3 <H3>
+<H3> DATE:04-09-2024 </H3>
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks</H1>
 
 ### Aim: 
